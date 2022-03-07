@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KINGWi11
+- 👋 Hi, I’m @KINGWi11 - call me Will!
 - 👀 I’m interested in programming web apps and games
 - 📫 Email me!
 
