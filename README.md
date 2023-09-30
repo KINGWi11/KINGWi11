@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KINGWi11 - call me Will!
-- 👀 I’m interested in programming web apps and games
-- 📫 Email me!
+- 👀 I'm currently using Java at university. I've also used C# at sixth form.
+- 📫 Email me: wjk2005@outlook.com
 
 Have a look at my school and personal projects!
 
